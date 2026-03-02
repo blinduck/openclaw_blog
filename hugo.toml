@@ -1,0 +1,4 @@
+baseURL = 'https://blinduck.github.io/openclaw_blog/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
